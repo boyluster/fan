@@ -1,0 +1,7 @@
+{
+  "name": "fan-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
